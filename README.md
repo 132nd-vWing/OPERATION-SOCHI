@@ -52,6 +52,7 @@ TBD
 ## AIRFIELD INFORMATION
 1) 617th, 696th and 259th squadron assets are based at GUDAUTA airbase
 2) All other 132nd assets are based at SENAKI-KOLKHI
+3) FARP DALLAS: N43deg 25'/ E040deg 06.9'/ 290ft
 
 ## AIRSPACE CONTROL PLAN
 TBD
