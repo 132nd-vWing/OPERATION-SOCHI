@@ -2,20 +2,19 @@
 
 ## SITUATION
 1) After the successful annexation of the Cremea peninsula, Russia has turn its eyes towards the countries to its Southern border. 
-A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.
-
-2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as wel as a ground offensive into Azerbaijan
-
-3) NATO intelligence warns that Russian armed forces are setting up an offensive into Abkhazia through the SOCHI district.
+A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.<br>
+2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as wel as a ground offensive into Azerbaijan. <br>
+3) NATO intelligence warns that Russian armed forces are setting up an offensive into Abkhazia through the SOCHI district.<br>
 4) Due to tactical situation and expected difficulties in defending the Abkhazian western coastal area, NATO HQ has authorized a preemptive assault.
 
 ## MISSION OBJECTIVES:
-1) 2) Deny the enemy of the SOCHI airbase by seizing surrounding key tactical terrain features
+1) Deny the enemy of the SOCHI airbase by seizing surrounding key tactical terrain features
 3) Degrade enemy ground forces combat strength, command and control and overall troops balance
 4) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
 
 ## METHOD
 1) Execute a ground offensive to seize and secure objectives SUSHI, NOODLES and WASABI with end-state holding at least one armored platoon on a defensive position on each objective
+
 2) Eliminate enemy units in the SOCHI area to facilitate safety of movement of allied reinforcements through the region
 
 ![OPERATION SOCHI MAP - SMALL - OBJECTIVES](https://user-images.githubusercontent.com/42184209/119199899-92750200-ba94-11eb-913a-0049452451fe.png)
@@ -23,9 +22,13 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 ## INTELLIGENCE
 ### GROUND OPPOSITION
 1) The Russian 429th Motor-Rifle Division is based at MAYKOP and has units deployed along the border including the SOCHI area.
+
 2) Enemy deployement include static outposts as well as mobile groups that may relocate as needed to set up makeshift defensive positions and / or reinforce static defenses.
+
 3) The two outposts nearest to the border can house anywhere between a platoon to a company sized armor/mechanized forces.
+
 4) With the primary combat vehicles used by the 429th Division we exepect mainly T-72s and BMP-3s as frontline defenses.
+
 5) Nearby Forward Operating Bases of the 429th are located at **N43deg 41'/E040deg 16.5'** and **N43deg 45'/E039deg 35'**. Each could hold at least one armored and/or mechanized force of company size, ready to dispatch at short notice to reinforce the border area. We evaluate that one of those is on high alert today.
 
 ### AIR DEFENSES
