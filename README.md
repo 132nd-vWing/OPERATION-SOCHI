@@ -2,15 +2,20 @@
 
 ## SITUATION
 1) After the successful annexation of the Cremea peninsula, Russia has turn its eyes towards the countries to its Southern border. 
-A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.<br>
-2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as wel as a ground offensive into Azerbaijan. <br>
-3) NATO intelligence warns that Russian armed forces are setting up an offensive into Abkhazia through the SOCHI district.<br>
+A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.
+
+2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as wel as a ground offensive into Azerbaijan.
+
+3) NATO intelligence warns that Russian armed forces are setting up an offensive into Abkhazia through the SOCHI district.
+
 4) Due to tactical situation and expected difficulties in defending the Abkhazian western coastal area, NATO HQ has authorized a preemptive assault.
 
 ## MISSION OBJECTIVES:
 1) Deny the enemy of the SOCHI airbase by seizing surrounding key tactical terrain features
-3) Degrade enemy ground forces combat strength, command and control and overall troops balance
-4) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
+
+2) Degrade enemy ground forces combat strength, command and control and overall troops balance
+
+3) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
 
 ## METHOD
 1) Execute a ground offensive to seize and secure objectives SUSHI, NOODLES and WASABI with end-state holding at least one armored platoon on a defensive position on each objective
@@ -33,8 +38,11 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 ### AIR DEFENSES
 1) SOCHI airbase is protected by an SA-6 located just North of the airbase
+
 2) Mobile air defenses of the 429th Division include SA-8s, SA-13s and SHILKAs deployed to provide anti-air support for the division's units
+
 3) Suspected SA-6 battery may be deployed IVO LAZAREVSKOE (N43deg 55'/ E039deg 20') protecting a nearby command center (Estimated as a backup commandpost of 429th HQ) 
+
 4) SA-10 battalions are stationed to defend the Russian airbases of NOVOROSSIYSK, MYKOP-KHANSKAYA and MINERALNYE-VODY
 
 ![OPERATION SOCHI MAP - SMALL - INTELLIGENCE](https://user-images.githubusercontent.com/42184209/119199921-9acd3d00-ba94-11eb-83b3-f62ec8361d78.png)
@@ -49,12 +57,16 @@ TBD
 
 ## SPINS
 1) AVOID damage to civilian infrastructure (Roads cratering, bridges destruction, railways, powerlines etc).
+
 2) AVOID use of cluster munitions less than 1000m from civilian population.
+
 3) AVOID damage to the SOCHI airbase (Cratering of runways and/or taxiways, damage to fuel storage or control tower etc) - The airbase should remain usable to support allied reinforcements via air delivery. 
 
 ## AIRFIELD INFORMATION
 1) 617th, 696th and 259th squadron assets are based at GUDAUTA airbase
+
 2) All other 132nd assets are based at SENAKI-KOLKHI
+
 3) FARP DALLAS: N43deg 25'/ E040deg 06.9'/ 290ft
 
 ## AIRSPACE CONTROL PLAN
