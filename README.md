@@ -10,9 +10,14 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 4) Due to tactical situation and expected difficulties in defending the Abkhazian western coastal area, NATO HQ has authorized a preemptive assault.
 
 ## MISSION OBJECTIVES:
-1) Deny the enemy of the SOCHI airbase by seizing surrounding key tactical terrain features
-2) Degrade enemy ground forces combat strength, command and control and overall troops balance
-3) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
+1) 2) Deny the enemy of the SOCHI airbase by seizing surrounding key tactical terrain features
+3) Degrade enemy ground forces combat strength, command and control and overall troops balance
+4) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
+
+## METHOD
+1) Execute a ground offensive to seize and secure objectives SUSHI, NOODLES and WASABI with end-state holding at least one armored platoon on a defensive position on each objective
+2) Eliminate enemy units in the SOCHI area to facilitate safety of movement of allied reinforcements through the region
+
 ![OPERATION SOCHI MAP - SMALL - OBJECTIVES](https://user-images.githubusercontent.com/42184209/119199899-92750200-ba94-11eb-913a-0049452451fe.png)
 
 ## INTELLIGENCE
@@ -39,11 +44,14 @@ TBD
 ## COMMUNICATIONS
 TBD
 
-SPINS
-TBD
+## SPINS
+1) AVOID damage to civilian infrastructure (Roads cratering, bridges destruction, railways, powerlines etc).
+2) AVOID use of cluster munitions less than 1000m from civilian population.
+3) AVOID damage to the SOCHI airbase (Cratering of runways and/or taxiways, damage to fuel storage or control tower etc) - The airbase should remain usable to support allied reinforcements via air delivery. 
 
 ## AIRFIELD INFORMATION
-TBD
+1) 617th, 696th and 259th squadron assets are based at GUDAUTA airbase
+2) All other 132nd assets are based at SENAKI-KOLKHI
 
 ## AIRSPACE CONTROL PLAN
 TBD
