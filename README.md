@@ -1,7 +1,6 @@
 # BRIEFING
 
-## SITUATION
-https://github.com/132nd-vWing/OPERATION-SOCHI/blob/main/SITUATION
+## [SITUATION](https://github.com/132nd-vWing/OPERATION-SOCHI/blob/main/SITUATION)
 
 ## INTELLIGENCE
 
