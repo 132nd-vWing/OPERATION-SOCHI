@@ -1,17 +1,10 @@
-# One
-## two
-### Three
-
-# **One**
-## **two**
-### **Three**
-
+# BRIEFING
 
 ## SITUATION
 
 ## INTELLIGENCE
 
-WEATHER
+## WEATHER
 
 COMMUNICATIONS
 
