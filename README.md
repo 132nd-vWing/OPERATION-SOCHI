@@ -30,6 +30,15 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 ![OPERATION SOCHI MAP - SMALL - OBJECTIVES](https://user-images.githubusercontent.com/42184209/119199899-92750200-ba94-11eb-913a-0049452451fe.png)
 
+## ALLIED GROUND FORCE
+1) The maneuvering force consists of one battalion (Total of 36) M1A2 ABRAMS MBTs, reinforced by 1x mechanized company of M2A2 BRADLEY IFVs.
+
+2) The force is accompanied by an mobile air defense detatchment of 2x GEPARD SPAAAs teams (2x vehicles per team) + 2x ROLAND teams (2x launchers and one EWR per team)
+
+3) Additionally, 4x recon teams (2x ATGM HMMWV per team) are reserved for TACP members
+
+4) The entire ground force is currently at the assembly area (Hidden from view of any enemy OPs)
+
 ## INTELLIGENCE
 ### GROUND OPPOSITION
 1) The Russian 131st Motor-Rifle Division is based at MAYKOP and has units deployed along the border including the SOCHI area.
