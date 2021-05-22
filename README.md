@@ -40,7 +40,7 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 4) The entire ground force is currently at the assembly area (Hidden from view of any enemy OPs)
 
 ## INTELLIGENCE
-### GROUND OPPOSITION
+### ENEMY GROUND OPPOSITION
 1) The Russian 131st Motor-Rifle Division is based at MAYKOP and has units deployed along the border including the SOCHI area.
 
 2) Enemy deployement include static outposts as well as mobile groups that may relocate as needed to set up makeshift defensive positions and / or reinforce static defenses.
@@ -51,7 +51,7 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 5) Nearby Forward Operating Bases of the 429th are located at **N43deg 41'/E040deg 16.5'** and **N43deg 45'/E039deg 35'**. Each could hold at least one armored and/or mechanized force of company size, ready to dispatch at short notice to reinforce the border area. We evaluate that one of those is on high alert today.
 
-### AIR DEFENSES
+### ENEMY AIR DEFENSES
 1) SOCHI airbase is protected by an SA-6 located just North of the airbase
 
 2) Mobile air defenses of the 131st Division include SA-8s, SA-13s and SHILKAs deployed to provide anti-air support for the division's units
@@ -62,7 +62,7 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 ![OPERATION SOCHI MAP - SMALL - INTELLIGENCE](https://user-images.githubusercontent.com/42184209/119199921-9acd3d00-ba94-11eb-83b3-f62ec8361d78.png)
 
-### AIR THREATS
+### ENEMY AIR THREATS
 1) The 3rd Fighter Aviation Regiment is a regional air-superiority regiment of the Russian Air Force. The regiment operates Su-27s and is usually known to hold squadrons at QRA at MAYKOP-KHANSKAYA and KRYMSK, however in past week there's been indications of a redeployment of the regiment's unit in light of escalations to the EAST. It is therefore should be expected that additional the regiment would operate out of more Eastern bases.
 
 2) Yesterday for the first time we've observed CAP flight on station over the coastline and an A-50 operating to the North
