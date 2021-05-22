@@ -1,5 +1,7 @@
 # BRIEFING
-**v1.0 / Last updated 22-May-2021**
+**v1.1 / Last updated 22-May-2021**
+CHANGELOG:
+v1.1 22-May-2021 Added details of friendly artillery support
 
 ## SITUATION
 
@@ -37,7 +39,8 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 3) Additionally, 4x recon teams (2x ATGM HMMWV per team) are reserved for TACP members
 
-4) The entire ground force is currently at the assembly area (Hidden from view of any enemy OPs)
+4) The maneuvering ground force is currently at the assembly area (Hidden from view of any enemy OPs)
+5) Fire support: a 155mm PALADIN battery (4x barrels) at **N43deg 26.5' / E040deg 07.7'**
 
 ## INTELLIGENCE
 ### ENEMY GROUND OPPOSITION
