@@ -3,7 +3,7 @@
 
 ## SITUATION
 
-A high-resolution map of the SOCHI area can be found [here](https://cloud.132virtualwing.org/s/5oXzPFr5enRAxyg)
+**A high-resolution map of the SOCHI area can be found** [here](https://cloud.132virtualwing.org/s/5oXzPFr5enRAxyg)
 
 1) After the successful annexation of the Cremea peninsula, Russia has turn its eyes towards the countries to its Southern border. 
 A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.
@@ -73,7 +73,7 @@ TBD
 ## COMMUNICATIONS
 Frequencies masterfile [Frequencies masterfile](https://drive.google.com/file/d/18EyWLNdQU_xj3YLKJEMxFYs6gfiKxoTn/view?usp=sharing) . The masterfile contains airframe-specific kneeboard-ready sheets with the relevant presets.
 
-ADMIN NOTE: This masterfile was copied from the OPAR campaign masterfile. Since OPERATION SOCHI is a single-event I resorted to avoid preset editing for participating airframes due to the workload involved. Therefore ALL ATC RELATED PRESTES ARE INVALID AND SHOULD BE INDIVIDUALLY CONFIGURED BY THE PILOT (Since the OPAR airbases are not used here...)
+**ADMIN NOTE:** This masterfile was copied from the OPAR campaign masterfile. Since OPERATION SOCHI is a single-event I resorted to avoid preset editing for participating airframes due to the workload involved. Therefore ALL ATC RELATED PRESTES ARE INVALID AND SHOULD BE INDIVIDUALLY CONFIGURED BY THE PILOT (Since the OPAR airbases are not used here...)
 With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 ## SPINS
