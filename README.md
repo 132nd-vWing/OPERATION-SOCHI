@@ -1,7 +1,7 @@
 # BRIEFING
-**v1.1 / Last updated 22-May-2021**
-CHANGELOG:
-v1.1 22-May-2021 Added details of friendly artillery support
+
+**CHANGELOG**:
+**v1.1** 22-May-2021 Added details of friendly artillery support
 
 ## SITUATION
 
