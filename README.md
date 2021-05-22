@@ -110,8 +110,8 @@ TBD
 ## ACKNOWLEDGEMENTS
 This mission could not be made without support of the following:
 
-3) 476th range targets mod [476th range targets mod](https://www.476vfightergroup.com/downloads.php?do=file&id=287)
+1) [476th range targets mod](https://www.476vfightergroup.com/downloads.php?do=file&id=287)
 
-4) MOOSE [MOOSE](https://flightcontrol-master.github.io/MOOSE_DOCS/)
+2) [MOOSE](https://flightcontrol-master.github.io/MOOSE_DOCS/)
 
-5) MIST [MIST](https://github.com/mrSkortch/MissionScriptingTools)
+3) [MIST](https://github.com/mrSkortch/MissionScriptingTools)
