@@ -79,15 +79,17 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 2) All other 132nd assets are based at SENAKI-KOLKHI
 
-3) FARP DALLAS: N43deg 25'/ E040deg 06.9'/ 290ft
+3) FARP DALLAS: **N43deg 25'/ E040deg 06.9'/ 290ft**
 
 ## AIRSPACE CONTROL PLAN
-1) COMBATFLITE file TBD
+1) COMBATFLITE file 
+[COMBATFLITE file v1](https://cloud.132virtualwing.org/s/fLZLJbJeSoF4cJM)
 
 2) TANKERS: See CF
 
 3) AWACS: See CF
 
+**NOTE**: Tankers and AWACS locations (Orbit, altitudes) as shown are preliminary and may be updated based on inputs and request from CAP and package commanders
 
 
 ## ADMIN
