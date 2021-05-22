@@ -100,10 +100,18 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 **NOTE**: Tankers and AWACS locations (Orbit, altitudes) as shown are preliminary and may be updated based on inputs and request from CAP and package commanders
 
+## AIR TASKING ORDER (ATO)
+Will be published in the event page
+
 
 ## ADMIN
 TBD
 
-## AIR TASKING ORDER (ATO)
-Will be published in the event page
+## ACKNOWLEDGEMENTS
+This mission could not be made without support of the following:
 
+3) 476th range targets mod [476th range targets mod](https://www.476vfightergroup.com/downloads.php?do=file&id=287)
+
+4) MOOSE [MOOSE](https://flightcontrol-master.github.io/MOOSE_DOCS/)
+
+5) MIST [MIST](https://github.com/mrSkortch/MissionScriptingTools)
