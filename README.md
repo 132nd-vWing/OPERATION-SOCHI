@@ -1,6 +1,9 @@
 # BRIEFING
 
 ## SITUATION
+
+A high-resolution map can be found [here] (https://cloud.132virtualwing.org/s/5oXzPFr5enRAxyg)
+
 1) After the successful annexation of the Cremea peninsula, Russia has turn its eyes towards the countries to its Southern border. 
 A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.
 
