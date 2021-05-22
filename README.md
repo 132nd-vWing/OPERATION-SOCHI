@@ -82,7 +82,13 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 3) FARP DALLAS: N43deg 25'/ E040deg 06.9'/ 290ft
 
 ## AIRSPACE CONTROL PLAN
-TBD
+1) COMBATFLITE file TBD
+
+2) TANKERS: See CF
+
+3) AWACS: See CF
+
+
 
 ## ADMIN
 TBD
