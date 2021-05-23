@@ -119,3 +119,5 @@ This mission could not be made without support of the following:
 2) [MOOSE](https://flightcontrol-master.github.io/MOOSE_DOCS/)
 
 3) [MIST](https://github.com/mrSkortch/MissionScriptingTools)
+
+4) [CTLD](https://github.com/ciribob/DCS-CTLD)
