@@ -2,6 +2,8 @@
 
 **CHANGELOG**:
 
+**v1.3** 29-May-2021 Added airbase charts (GUDAUTA, SENAKI-KOLKHI, KOBULETI)
+
 **v1.2** 28-May-2021 Updated intelligence section
 
 **v1.1** 22-May-2021 Added details of friendly artillery support
@@ -95,6 +97,10 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 2) All other 132nd assets are based at SENAKI-KOLKHI
 
 3) FARP DALLAS: **N43deg 25'/ E040deg 06.9'/ 290ft**
+
+4) Airbases charts for use can be found [here](https://cloud.132virtualwing.org/s/AHMgPCqfk9gSCW6) 
+
+**NOTE** - the GND chart for SENAKI-KOLKHI is customized with corrected taxiway labeling.
 
 ## AIRSPACE CONTROL PLAN
 1) COMBATFLITE file 
