@@ -2,6 +2,7 @@
 
 **CHANGELOG**:
 
+**v1.2** 28-May-2021 Updated intelligence section
 **v1.1** 22-May-2021 Added details of friendly artillery support
 
 ## SITUATION
@@ -47,11 +48,11 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 ### ENEMY GROUND OPPOSITION
 1) The Russian 131st Motor-Rifle Division is based at MAYKOP and has units deployed along the border including the SOCHI area.
 
-2) Enemy deployement include static outposts as well as mobile groups that may relocate as needed to set up makeshift defensive positions and / or reinforce static defenses.
+2) Enemy deployement include static outposts and positions as well as mobile groups that may relocate as needed to set up makeshift defensive positions and / or reinforce static defenses.
 
 3) The two outposts nearest to the border can house anywhere between a platoon to a company sized armor/mechanized forces.
 
-4) With the primary combat vehicles used by the 131st Division we exepect mainly T-72s and BMP-3s as frontline defenses.
+4) With the primary combat vehicles used by the 131st Division we exepect mainly T-80s and BMP-3s as frontline defenses.
 
 5) Nearby Forward Operating Bases of the 429th are located at **N43deg 41'/E040deg 16.5'** and **N43deg 45'/E039deg 35'**. Each could hold at least one armored and/or mechanized force of company size, ready to dispatch at short notice to reinforce the border area. We evaluate that one of those is on high alert today.
 
