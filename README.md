@@ -3,6 +3,7 @@
 **CHANGELOG**:
 
 **v1.2** 28-May-2021 Updated intelligence section
+
 **v1.1** 22-May-2021 Added details of friendly artillery support
 
 ## SITUATION
