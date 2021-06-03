@@ -61,6 +61,8 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 5) Nearby Forward Operating Bases of the 429th are located at **N43deg 41'/E040deg 16.5'** and **N43deg 45'/E039deg 35'**. Each could hold at least one armored and/or mechanized force of company size, ready to dispatch at short notice to reinforce the border area. We evaluate that one of those is on high alert today.
 
+![OPERATION SOCHI MAP - SMALL - INTELLIGENCE](https://user-images.githubusercontent.com/42184209/119199921-9acd3d00-ba94-11eb-83b3-f62ec8361d78.png)
+
 ### ENEMY AIR DEFENSES
 1) SOCHI airbase is protected by an SA-6 located just North of the airbase
 
@@ -69,8 +71,6 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 3) Suspected SA-6 battery may be deployed IVO LAZAREVSKOE (N43deg 55'/ E039deg 20') protecting a nearby command center (Estimated as a backup commandpost of 131st HQ) 
 
 4) SA-10 battalions are stationed to defend the Russian airbases of NOVOROSSIYSK, MYKOP-KHANSKAYA and MINERALNYE-VODY
-
-![OPERATION SOCHI MAP - SMALL - INTELLIGENCE](https://user-images.githubusercontent.com/42184209/119199921-9acd3d00-ba94-11eb-83b3-f62ec8361d78.png)
 
 ### ENEMY AIR THREATS
 1) The 3rd Fighter Aviation Regiment is a regional air-superiority regiment of the Russian Air Force. The regiment operates Su-27s and is usually known to hold squadrons at QRA at MAYKOP-KHANSKAYA and KRYMSK, however in past week there's been indications of a redeployment of the regiment's unit in light of escalations to the EAST. It is therefore should be expected that additional the regiment would operate out of more Eastern bases.
