@@ -2,6 +2,8 @@
 
 **CHANGELOG**:
 
+**v1.4** 3-Jun-2021 Updated CombatFlite file (Now ver2)
+
 **v1.3** 29-May-2021 Added airbase charts (GUDAUTA, SENAKI-KOLKHI, KOBULETI)
 
 **v1.2** 28-May-2021 Updated intelligence section
@@ -104,7 +106,7 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 ## AIRSPACE CONTROL PLAN
 1) COMBATFLITE file 
-[COMBATFLITE file v1](https://cloud.132virtualwing.org/s/fLZLJbJeSoF4cJM)
+[COMBATFLITE file v2](https://cloud.132virtualwing.org/s/rCza4PyZXazwm6L)
 
 2) TANKERS: See CF
 
