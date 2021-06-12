@@ -17,7 +17,7 @@
 1) After the successful annexation of the Cremea peninsula, Russia has turn its eyes towards the countries to its Southern border. 
 A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter the russians of hostilities.
 
-2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as wel as a ground offensive into Azerbaijan.
+2) However two days ago hostilities broke with a series of clashes between Russian and NATO aircraft, as well as a ground offensive into Azerbaijan.
 
 3) NATO intelligence warns that Russian armed forces are setting up an offensive into Abkhazia through the SOCHI district.
 
@@ -47,6 +47,7 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 3) Additionally, 4x recon teams (2x ATGM HMMWV per team) are reserved for TACP members
 
 4) The maneuvering ground force is currently at the assembly area (Hidden from view of any enemy OPs)
+
 5) Fire support: a 155mm PALADIN battery (4x barrels) at **N43deg 26.5' / E040deg 07.7'**
 
 ## INTELLIGENCE
