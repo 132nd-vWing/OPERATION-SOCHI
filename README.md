@@ -48,7 +48,9 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 ![OPERATION SOCHI MAP - SMALL - OBJECTIVES](https://user-images.githubusercontent.com/42184209/119199899-92750200-ba94-11eb-913a-0049452451fe.png)
 
 4) Attack [OBJECTIVE NEMO](https://cloud.132virtualwing.org/s/x2PFyWbie6yat6R)
+
 4.a) PRIORITY DMPIs NEMO-1-1, NEMO-1-2 and NEMO-1-3 (Command bunkers) 
+
 4.b) SECONDARY DMPIs NEMO-5-1, NEOM-5-2 and NEMO-5-3 (Communication towers)
 
 ## ALLIED GROUND FORCE
