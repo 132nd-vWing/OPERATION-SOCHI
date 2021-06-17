@@ -89,11 +89,17 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 ## WEATHER
 Calm winds from WNW
+
 Scattered clouds, base 16000ft
+
 Temperature 17c
+
 QNH2953
+
 GUDAUTA active RWY33
+
 SENAKI-KOLKHI active RWY27
+
 
 ## COMMUNICATIONS
 Frequencies masterfile [Frequencies masterfile](https://drive.google.com/file/d/18EyWLNdQU_xj3YLKJEMxFYs6gfiKxoTn/view?usp=sharing) . The masterfile contains airframe-specific kneeboard-ready sheets with the relevant presets.
