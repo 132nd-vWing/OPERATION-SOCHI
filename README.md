@@ -2,6 +2,12 @@
 
 **CHANGELOG**:
 
+**v2** 17-Jun-2021 
+        Updated objectives
+        Updated ENEMY AIR DEFENSES
+        Updated WEATHER
+        Updated COMBATFLITE file
+
 **v1.4** 3-Jun-2021 Updated CombatFlite file (Now ver2)
 
 **v1.3** 29-May-2021 Added airbase charts (GUDAUTA, SENAKI-KOLKHI, KOBULETI)
@@ -30,6 +36,8 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 3) Hold the secured area against enemy counter attacks and shape conditions for further offensive operations in the area.
 
+4) Degrade enemy ability to counterattack by targeting selected C2 assets in the region;
+
 ## METHOD
 1) Execute a ground offensive to seize and secure objectives SUSHI, NOODLES and WASABI with end-state holding at least one armored platoon on a defensive position on each objective
 
@@ -38,6 +46,10 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 3) Depending on availability of assets, additional SCAR, AI, SEAD and DEAD missions are to be expected
 
 ![OPERATION SOCHI MAP - SMALL - OBJECTIVES](https://user-images.githubusercontent.com/42184209/119199899-92750200-ba94-11eb-913a-0049452451fe.png)
+
+4) Attack [OBJECTIVE NEMO](https://cloud.132virtualwing.org/s/x2PFyWbie6yat6R)
+4.a) PRIORITY DMPIs NEMO-1-1, NEMO-1-2 and NEMO-1-3 (Command bunkers) 
+4.b) SECONDARY DMPIs NEMO-5-1, NEOM-5-2 and NEMO-5-3 (Communication towers)
 
 ## ALLIED GROUND FORCE
 1) The maneuvering force consists of one battalion (Total of 36) M1A2 ABRAMS MBTs, reinforced by 1x mechanized company of M2A2 BRADLEY IFVs.
@@ -69,9 +81,11 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 
 2) Mobile air defenses of the 131st Division include SA-8s, SA-13s and SHILKAs deployed to provide anti-air support for the division's units
 
-3) Suspected SA-6 battery may be deployed IVO LAZAREVSKOE (N43deg 55'/ E039deg 20') protecting a nearby command center (Estimated as a backup commandpost of 131st HQ) 
+3) Suspected SA-6 battery may be deployed IVO LAZAREVSKOE (N43deg 55'/ E039deg 20') protecting a nearby command center ; **INTL UPDATE** This site is now estimated as forward command center of 131st motor-rifle division (OBJECTIVE NEMO)
 
 4) SA-10 battalions are stationed to defend the Russian airbases of NOVOROSSIYSK, MYKOP-KHANSKAYA and MINERALNYE-VODY
+
+5) **INTL UPDATE** defenses to 131st HQ (OBJECTIVE NEMO) may have already been reinforced as this C2 asset is active and may be used for planning and organizing the impending Russian offensive planned in the region. INTL estimate SA15 and/or SA19 may be active in the area **UNCONFIRMED**
 
 ### ENEMY AIR THREATS
 1) The 3rd Fighter Aviation Regiment is a regional air-superiority regiment of the Russian Air Force. The regiment operates Su-27s and is usually known to hold squadrons at QRA at MAYKOP-KHANSKAYA and KRYMSK, however in past week there's been indications of a redeployment of the regiment's unit in light of escalations to the EAST. It is therefore should be expected that additional the regiment would operate out of more Eastern bases.
@@ -79,7 +93,12 @@ A NATO taskforce was deployed to the Caucasus to reinforce and hopefully deter t
 2) Yesterday for the first time we've observed CAP flight on station over the coastline and an A-50 operating to the North
 
 ## WEATHER
-TBD
+Calm winds from WNW
+Scattered clouds, base 16000ft
+Temperature 17c
+QNH2953
+GUDAUTA active RWY33
+SENAKI-KOLKHI active RWY27
 
 ## COMMUNICATIONS
 Frequencies masterfile [Frequencies masterfile](https://drive.google.com/file/d/18EyWLNdQU_xj3YLKJEMxFYs6gfiKxoTn/view?usp=sharing) . The masterfile contains airframe-specific kneeboard-ready sheets with the relevant presets.
@@ -107,7 +126,7 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 ## AIRSPACE CONTROL PLAN
 1) COMBATFLITE file 
-[COMBATFLITE file v2](https://cloud.132virtualwing.org/s/rCza4PyZXazwm6L)
+[COMBATFLITE file v3](https://cloud.132virtualwing.org/s/b5bmk6DRScsnygE)
 
 2) TANKERS: See CF
 
@@ -117,7 +136,6 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 ## AIR TASKING ORDER (ATO)
 Will be published in the event page
-
 
 ## ADMIN
 TBD
