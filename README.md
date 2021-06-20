@@ -2,6 +2,8 @@
 
 **CHANGELOG**:
 
+**v3** 20-Jun-2021 Updated CombatFlite file (Now ver4) with new station for AR702
+
 **v2** 17-Jun-2021 
         Updated objectives
         Updated ENEMY AIR DEFENSES
@@ -127,7 +129,7 @@ With that said, all TACTICAL frequencies and presets are valid and in effect.
 
 ## AIRSPACE CONTROL PLAN
 1) COMBATFLITE file 
-[COMBATFLITE file v3](https://cloud.132virtualwing.org/s/b5bmk6DRScsnygE)
+[COMBATFLITE file v4](https://cloud.132virtualwing.org/s/D5FFp4Mn9y9sCXR)
 
 2) TANKERS: See CF
 
